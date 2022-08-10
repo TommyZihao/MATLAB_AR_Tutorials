@@ -1,4 +1,4 @@
-# 用MATLAB玩转增强现实Live Editor教程
+# MATLAB玩转元宇宙增强现实-Live Editor教程
 
 作者：同济子豪兄 https://space.bilibili.com/1900783
 
